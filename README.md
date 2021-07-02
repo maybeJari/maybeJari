@@ -6,7 +6,7 @@
 <br>
 
 <p align="center">
-  <a target="_blank" href="https://discord.gg/ZNyTnGMy9E">
+  <a href="https://discord.gg/ZNyTnGMy9E">
     <img src="https://discord.c99.nl/widget/theme-4/817275612430336022.png" alt="notjari"/>
      </a>
 </p>
