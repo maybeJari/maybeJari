@@ -4,13 +4,16 @@
   </a>
 </p>
 <br>
+
 <p align="center">
   <a href="https://discord.gg/ZNyTnGMy9E">
     <img src="https://discord.c99.nl/widget/theme-4/817275612430336022.png" alt="notjari"/>
      </a>
 </p>
+<br>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=notjari&style=flat-square&color=grey" alt="notjari" /> </p>
+<br>
 
 <p align="center">
   <tr>
@@ -36,6 +39,7 @@
     </td>
   </tr>
 </p>
+
 <p align="center" >
   <a href="https://discord.gg/ZNyTnGMy9E">
   <img src="https://i.imgur.com/t7HgDIj.png" />
