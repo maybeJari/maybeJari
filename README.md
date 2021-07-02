@@ -1,5 +1,11 @@
+<p align="center" >
+  <a href="https://discord.gg/ZNyTnGMy9E">
+  <img src="https://i.imgur.com/ElDl9BI.png" />
+  </a>
+</p>
+<br>
 <p align="center">
-  <a href="https://github.com/notjari">
+  <a href="https://discord.gg/ZNyTnGMy9E">
     <img src="https://discord.c99.nl/widget/theme-4/817275612430336022.png" alt="notjari"/>
      </a>
 </p>
@@ -18,9 +24,20 @@
 </p>
 
 <p align="center">
+  <a href="https://discord.gg/ZNyTnGMy9E">
+  <img src="https://i.imgur.com/14qnF3E.png"/>
+  </a>
+</p>
+
+<p align="center">
   <tr>
     <td align="center" style="padding=0;width=50%;">
       <img src="https://github-readme-streak-stats.herokuapp.com?user=notjari&theme=tokyonight_duo&hide_border=true&ring=ec7460&currStreakLabel=FFFFFF&sideNums=ec7460&dates=979797&sideLabels=FFFFFF&currStreakNum=FFFFFF&border=DD2727&stroke=00000000&background=00000000&fire=FF7600" />
     </td>
   </tr>
+</p>
+<p align="center" >
+  <a href="https://discord.gg/ZNyTnGMy9E">
+  <img src="https://i.imgur.com/t7HgDIj.png" />
+  </a>
 </p>
