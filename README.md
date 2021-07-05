@@ -5,6 +5,20 @@
 </p>
 <br>
 
+<p align="center" >
+  Support me using Crypto.
+<p align="center" >
+  BTC: 3FnDG4qtw4ZLJatGLXmwxooD9mC2tLTkuc
+<p align="center" >
+  ETH: 0x226d7F1dB05E2CFffd775777288B027C2dcc375d
+<p align="center" >
+  ETC: 0x3E2866759aE0F07f38e59eEf5d105FEBc281FC07
+<p align="center" >
+  LTC: MFJQkQkut4SGe6uL413m5iuM2nznX1rUKK
+</p>
+<br>
+<br>
+
 <p align="center">
   <a href="https://discord.gg/ZNyTnGMy9E">
     <img src="https://discord.c99.nl/widget/theme-4/817275612430336022.png" alt="notjari"/>
