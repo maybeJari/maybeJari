@@ -6,16 +6,17 @@
 <br>
 
 <p align="center" >
-  Support me using Crypto.
+  <a href="https://streamelements.com/notjari/tip">
+  Support me using Paypal.
+  </a>
 <p align="center" >
-  BTC: 3FnDG4qtw4ZLJatGLXmwxooD9mC2tLTkuc
+  <a href="https://1upcoin.com/donate/notjari">
+  Support me using Crypto (BTC, ETH, LTC).
+    </a>
 <p align="center" >
-  ETH: 0x226d7F1dB05E2CFffd775777288B027C2dcc375d
-<p align="center" >
-  ETC: 0x3E2866759aE0F07f38e59eEf5d105FEBc281FC07
-<p align="center" >
-  LTC: MFJQkQkut4SGe6uL413m5iuM2nznX1rUKK
-</p>
+  <a href="https://skinsdonations.com/u/jari">
+  Support me using Skins (TF2, DOTA2, CSGO, Rust).
+  </a>
 <br>
 <br>
 
