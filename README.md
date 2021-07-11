@@ -11,11 +11,11 @@
   </a>
 <p align="center" >
   <a href="https://1upcoin.com/donate/notjari">
-  Support me using Crypto (BTC, ETH, LTC).
+  Support me using Crypto. (BTC, ETH, LTC)
     </a>
 <p align="center" >
   <a href="https://skinsdonations.com/u/jari">
-  Support me using Skins (TF2, DOTA2, CSGO, Rust).
+  Support me using Skins. (TF2, DOTA2, CSGO, Rust)
   </a>
 <br>
 <br>
