@@ -5,11 +5,11 @@
 <br>
 
 <p align="center" >
-  <a href="https://streamelements.com/notjari/tip">
+  <a href="https://streamelements.com/maybejari/tip">
   Support me using Paypal.
   </a>
 <p align="center" >
-  <a href="https://1upcoin.com/donate/notjari">
+  <a href="https://1upcoin.com/donate/maybejari">
   Support me using Crypto. (BTC, ETH, LTC)
     </a>
 <p align="center" >
