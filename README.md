@@ -45,11 +45,6 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/notJari">
-  <img src="https://i.imgur.com/14qnF3E.png"/>
-</p>
-
-<p align="center">
   <tr>
     <td align="center" style="padding=0;width=50%;">
       <a href="https://github.com/notJari">
