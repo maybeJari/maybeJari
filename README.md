@@ -48,9 +48,3 @@
     </td>
   </tr>
 </p>
-
-<p align="center" >
-  <a href="https://discord.gg/ZNyTnGMy9E">
-  <img src="https://i.imgur.com/t7HgDIj.png" />
-  </a>
-</p>hi
