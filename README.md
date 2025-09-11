@@ -44,9 +44,9 @@
 
 <center>
 
-![](https://github-readme-stats.vercel.app/api?username=maybejari&theme=calm_pink&hide_border=true&include_all_commits=true&count_private=true)<br>
-![](https://nirzak-streak-stats.vercel.app/?user=maybejari&theme=calm_pink&hide_border=true) <br>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=maybejari&theme=calm_pink&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=maybejari&theme=transparent&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=maybejari&theme=transparent&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=maybejari&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 </center>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
